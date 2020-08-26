@@ -1,0 +1,133 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{9F875F33-3550-4CE3-976D-EB8F53347162}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>dupchon</RootNamespace>
+    <AssemblyName>dupchon</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Downloads\work\oop\fin\materials\week12material\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <HintPath>..\..\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataManager.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="LoginForm.cs" />
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="Member.Designer.cs">
+      <DependentUpon>Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Membership.cs" />
+    <Compile Include="Membership.Designer.cs" />
+    <Compile Include="Member_type.cs" />
+    <Compile Include="Member_type.Designer.cs" />
+    <Compile Include="MenuManagement.cs" />
+    <Compile Include="MenuManagement.Designer.cs">
+      <DependentUpon>MenuManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Method.cs" />
+    <Compile Include="Method.Designer.cs">
+      <DependentUpon>Method.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="Order.Designer.cs">
+      <DependentUpon>Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderItem.cs" />
+    <Compile Include="Out.cs" />
+    <Compile Include="Out.Designer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report.cs" />
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Table.cs" />
+    <Compile Include="Table.Designer.cs">
+      <DependentUpon>Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task.cs" />
+    <Compile Include="Task.Designer.cs">
+      <DependentUpon>Task.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member.resx" />
+    <EmbeddedResource Include="Membership.resx" />
+    <EmbeddedResource Include="Member_type.resx" />
+    <EmbeddedResource Include="MenuManagement.resx">
+      <DependentUpon>MenuManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Method.resx">
+      <DependentUpon>Method.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order.resx">
+      <DependentUpon>Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Out.resx" />
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Table.resx">
+      <DependentUpon>Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task.resx">
+      <DependentUpon>Task.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Out.csproj" />
+  </ItemGroup>
+</Project>

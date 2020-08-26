@@ -1,0 +1,72 @@
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.LoginForm.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.csproj.GenerateResource.Cache
+C:\Users\najnnjj\Desktop\dupchon\dupchon\bin\Debug\dupchon.exe
+C:\Users\najnnjj\Desktop\dupchon\dupchon\bin\Debug\dupchon.pdb
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.exe
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.pdb
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.MainForm.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Task.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.MenuManagement.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Method.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Table.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Member.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Membership.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Member_type.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Order.resources
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Out.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.LoginForm.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.MainForm.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Member.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Membership.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Member_type.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.MenuManagement.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Method.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Order.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Out.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Table.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Task.resources
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.csproj.GenerateResource.Cache
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.exe
+C:\Users\66969\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.pdb
+C:\Users\66969\Desktop\dupchon\dupchon\bin\Debug\dupchon.exe
+C:\Users\66969\Desktop\dupchon\dupchon\bin\Debug\dupchon.pdb
+C:\Users\najnnjj\Desktop\dupchon\dupchon\bin\Debug\ZedGraph.dll
+C:\Users\najnnjj\Desktop\dupchon\dupchon\obj\x86\Debug\dupchon.Report.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\bin\Debug\dupchon.exe
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\bin\Debug\dupchon.pdb
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.LoginForm.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.MainForm.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Member.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Membership.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Member_type.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.MenuManagement.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Method.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Order.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Out.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Report.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Table.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Task.resources
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.csproj.GenerateResource.Cache
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.exe
+C:\Users\66969\Desktop\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.pdb
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\bin\Debug\dupchon.exe
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\bin\Debug\dupchon.pdb
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.LoginForm.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.MainForm.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Member.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Membership.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Member_type.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.MenuManagement.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Method.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Order.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Out.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Report.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Table.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.Task.resources
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.csproj.GenerateResource.Cache
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.exe
+C:\Users\66969\Desktop\y3\oop project restaurant\dupchon\dupchon\obj\x86\Debug\dupchon.pdb
